@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BuzzBot**
 
-- 🌱 I’m currently learning **Python, Java and HTML**
+- 🌱 I’m currently programming **Python, Java and HTML**
 
 - ⚡ Fun fact **I play the tuba!**
 
